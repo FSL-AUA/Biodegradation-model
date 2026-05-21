@@ -6,7 +6,7 @@ This folder includes:
 
 1) Original dataset (*_Dataset.xlsx)
 
-2) Preprocessing notebook (*_data_preprocess_LM.ipynb)
+2) Preprocessing notebook (*_data_preprocessing_LM.ipynb)
 
 3) Cleaned dataset (*_data_LM.csv) Dataset obtained after preprocessing (cleaning, filtering, unit harmonization, removing invalid samples).
 
